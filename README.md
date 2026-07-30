@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **inezhinskiy/inezhinskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Ivan
+
+System Administrator transitioning into DevOps & Cloud Infrastructure.
+
+Background: VMware/vSphere virtualization, networking, Windows/Linux administration
+Currently learning: Docker, Kubernetes, CI/CD, Infrastructure as Code
